@@ -1,0 +1,14 @@
+Horizontal {
+    margin: 1;
+    height: 50;
+}
+
+Workstation {
+    background: $boost;
+    min-width: 50;
+}
+
+PitchGutter {
+    width: 5;
+    background: $boost;
+}
